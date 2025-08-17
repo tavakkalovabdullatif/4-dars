@@ -202,4 +202,4 @@ function printNamesD(name1, name2, name3, name4, name5) {
   return `${name1}, ${name2}, ${name3}, ${name4}, ${name5}`;
 }
 
-console.log("Ali", "Vali", "Gulbahor", "Zilola", "Javohir");
+console.log("Ali", "Vali", "Gulbahor", "Javohir");
